@@ -716,3 +716,8 @@ video.background {
   transform: translate(-50%, -50%);
 
 }
+
+img.sign {
+  //filter: invert(if var(--global-image-invert));
+  -webkit-animation: fadeIn linear 800ms;
+}
