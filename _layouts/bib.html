@@ -44,8 +44,19 @@
             {% endif %}
             {% endif %}
             {% assign coauthor_url = nil %}
-            {% if site.data.coauthors[author.last] %}
+
+            {% assign simplified_name = author.last | remove: '*' %}
+            {% if site.data.coauthors[author.last]%}
             {% for coauthor in site.data.coauthors[author.last] %}
+            {% if coauthor.firstname contains author.first %}
+            {% assign coauthor_url = coauthor.url %}
+            {% break %}
+            {% endif %}
+            {% endfor %}
+            {% endif %}
+
+            {% if site.data.coauthors[simplified_name]%}
+            {% for coauthor in site.data.coauthors[simplified_name] %}
             {% if coauthor.firstname contains author.first %}
             {% assign coauthor_url = coauthor.url %}
             {% break %}
@@ -73,7 +84,7 @@
             {% endif %}
             {% else %}
             {% if coauthor_url %}
-            <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>,
+            <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>,
             {% else %}
             {{author.first}} {{author.last}},
             {% endif %}
@@ -103,7 +114,7 @@
 
             {% if entry.abbr %}
             (<b>{{entry.abbr}}</b>)
-<!--            {{entry.abbr}}-->
+            <!--            {{entry.abbr}}-->
             {% endif %}
             {% if entry.year %}
             , {{entry.year}}

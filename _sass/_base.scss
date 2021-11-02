@@ -513,6 +513,7 @@ footer.sticky-bottom {
       .author {
 
         font-size: 100%;
+
         a {
           border-bottom: 1px;
 
@@ -520,6 +521,9 @@ footer.sticky-bottom {
             border-bottom-style: solid;
             text-decoration: none;
           }
+
+          border-bottom: 1px dashed var(--global-text-color);
+          color: var(--global-text-color)
         }
 
         > em {
@@ -527,7 +531,8 @@ footer.sticky-bottom {
           font-style: normal;
         }
       }
-      .periodical{
+
+      .periodical {
         font-size: 100%;
       }
 
