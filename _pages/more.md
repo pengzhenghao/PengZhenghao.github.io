@@ -6,25 +6,30 @@ description: Some information about me.
 nav: true
 ---
 
+<br>
 ## Education
-
 
 ##### The Chinese University of Hong Kong
 
-* *Agu 2019 - Present*
+* August 2019 - Present
 * Graduate student at Information Engineering Department.
 * Supervised by <a href="http://boleizhou.github.io">Professor Bolei Zhou</a>.
 
 
 ##### Shanghai Jiao Tong University
 
-* *September 2015 - July 2019*
+* September 2015 - July 2019
 * Supervised by <a href="http://www.cs.sjtu.edu.cn/~jiangli/">Professor Li Jiang</a> at Advanced Computer Architecture Laboratory.
 * Major in Naval Architecture and Ocean Engineering.
 * Member of Zhiyuan Honors Program.
 
+##### The Affiliated High School of South China Normal University
 
+* September 2012 - July 2015
+* I love my high school!
 
+<br>
+<br>
 ## Teaching
 
 
@@ -42,6 +47,8 @@ nav: true
 * Intro to Reinforcement Learning (introRL) at bilibili: Open-source online lectures
 * IERG6130 Seminar on Reinforcement Learning at CUHK, Term 2, 2019-20
 
+<br>
+<br>
 ## Papers
 
 * <b>Zhenghao Peng\*</b>, Quanyi Li\*, Chunxiao Liu, and Bolei Zhou.
