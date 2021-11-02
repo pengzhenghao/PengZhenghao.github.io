@@ -1,11 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Awards
 
-Organize your courses by years, topics, or universities, however you like!
+* Teaching Assistant Awards, Term 2, 2020-21
+* Teaching Assistant Awards, Term 1, 2020-21
+
+## Teaching Assistance
+
+
+* IERG5350 Reinforcement Learning at CUHK, Term 1, 2021-22
+* IERG5350 Reinforcement Learning at CUHK, Term 1, 2020-21
+* Intro to Reinforcement Learning (introRL) at bilibili: Open-source online lectures
+* IERG6130 Seminar on Reinforcement Learning at CUHK, Term 2, 2019-20
