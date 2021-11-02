@@ -479,7 +479,8 @@ footer.sticky-bottom {
       padding-bottom: 1.5rem;
 
       .abbr {
-        height: 8rem;
+        min-height: 150px;
+        min-width: 200px;
         margin-bottom: 0.5rem;
 
         abbr {
