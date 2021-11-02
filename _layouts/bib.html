@@ -3,6 +3,18 @@
 
 <div class="row">
   <div class="col-sm-2 abbr">
+
+  {% if entry.teaser %}
+    <img src="../assets/teaser/{{entry.teaser}}" class="teaser img-fluid z-depth-1">
+  {% endif %}
+
+  {% if entry.teaser_video %}
+    <video autoplay="autoplay" muted loop="loop" playsinline>
+        <source src="../assets/teaser/{{entry.teaser_video}}" type="video/mp4"/>
+    </video>
+<!--    <img src="../assets/teaser/{{entry.teaser_video}}" class="teaser img-fluid z-depth-1">-->
+  {% endif %}
+
   {% if entry.abbr %}
     {% if site.data.venues[entry.abbr] %}
     <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
@@ -20,9 +32,13 @@
       <div class="author">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
-          {% if author.last == site.scholar.last_name%}
+          {% assign author_is_coauthor = false %}
+          {% if author.last contains site.scholar.last_name%}
             {% if site.scholar.first_name contains author.first%}
               {% assign author_is_self = true %}
+              {% if author.last contains "*" %}
+                {% assign author_is_coauthor = true %}
+              {% endif %}
             {% endif %}
           {% endif %}
           {% assign coauthor_url = nil %}
@@ -37,29 +53,37 @@
 
           {% if forloop.length == 1 %}
             {% if author_is_self %}
-              <em>{{author.last}}, {{author.first}}</em>
+              {% if author_is_coauthor %}
+                <em><b>{{author.first}} {{site.scholar.last_name}}</b></em>*
+              {% else %}
+                <em><b>{{author.first}} {{author.last}}</b></em>
+              {% endif %}
             {% else %}
-              {{author.last}}, {{author.first}}
+               {{author.first}} {{author.last}}
             {% endif %}
           {% else %}
             {% unless forloop.last %}
               {% if author_is_self %}
-                <em>{{author.last}}, {{author.first}}</em>,
+                {% if author_is_coauthor %}
+                  <em><b>{{author.first}} {{site.scholar.last_name}}</b></em>*,
+                {% else %}
+                  <em><b>{{author.first}} {{author.last}}</b></em>,
+                {% endif %}
               {% else %}
                 {% if coauthor_url %}
-                  <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>,
+                  <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>,
                 {% else %}
-                  {{author.last}}, {{author.first}},
+                  {{author.first}} {{author.last}},
                 {% endif %}
               {% endif %}
             {% else %}
               {% if author_is_self %}
-                and <em>{{author.last}}, {{author.first}}</em>
+                and <em>{{author.first}} {{author.last}}</em>
               {% else %}
                 {% if coauthor_url %}
-                  and <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>
+                  and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
                 {% else %}
-                  and {{author.last}}, {{author.first}}
+                  and {{author.first}} {{author.last}}
                 {% endif %}
               {% endif %}
             {% endunless %}
