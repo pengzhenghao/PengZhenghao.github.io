@@ -58,6 +58,7 @@ blockquote {
 
 .profile {
   margin-left: 1rem;
+  margin-right: 1rem;
   width: 100%;
 
   .address {
@@ -245,13 +246,29 @@ blockquote {
 
 // Social (bottom)
 
+
 .social {
-  text-align: left;
-  padding-left: 1rem;
+  text-align: center;
+  //padding-left: 1rem;
   padding-top: 2rem;
 
   .contact-icons {
     font-size: 2.5rem;
+
+    .icon {
+      vertical-align: top;
+      text-align: center;
+      color: var(--global-distill-app-color);
+
+      display: inline-block;
+      width: 2.35rem;
+      height: 2.35rem;
+    }
+
+    .icon > img {
+      position: relative;
+    }
+
 
     a {
       i::before {
