@@ -2,10 +2,14 @@
 
 let toggleTheme = (theme) => {
     if (theme == "dark") {
-        document.getElementById("MySignImg").style.filter = "invert(0%)";
+        if (document.getElementById(("MySignImg"))) {
+            document.getElementById("MySignImg").style.filter = "invert(0%)";
+        }
         setTheme("light");
     } else {
-        document.getElementById("MySignImg").style.filter = "invert(100%)";
+        if (document.getElementById(("MySignImg"))) {
+            document.getElementById("MySignImg").style.filter = "invert(100%)";
+        }
         setTheme("dark");
     }
 }
