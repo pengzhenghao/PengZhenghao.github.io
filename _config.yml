@@ -181,10 +181,10 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Peng
+  first_name: [Zhenghao, Z.]
 
-  style: apa
+  style: acm
   locale: en
 
   source: /_bibliography/
@@ -199,7 +199,7 @@ scholar:
   join_strings: true
 
   details_dir: bibliography
-  details_layout: bibtex.html
+  details_layout: bib.html
   details_link: Details
 
   query: "@*"
