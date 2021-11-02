@@ -5,9 +5,9 @@ layout: default
 <div class="post">
     <header class="post-header">
 
-        <div class="row">
+        <div class="row align-items-center">
             {% if page.profile %}
-            <div class="profile float-right col-sm-4">
+            <div class="profile float-right col-5">
                 {% if page.profile.image %}
                 {% responsive_image_block %}
                 path: {{ page.profile.image | prepend: 'assets/img/' }}
@@ -21,7 +21,7 @@ layout: default
                 {% endif %}
             </div>
             {% endif %}
-            <div class="col-sm-7">
+            <div class="col-6">
                 <h1 class="post-title" style="padding-top: 100px; text-align: center; ">
                     <img id="MySignImg" class="sign" width="200px" src="../assets/img/sign.png" alt="" itemprop="image" style="text-align: center"/>
                     <br>
