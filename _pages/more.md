@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: 
+permalink: /more/
 title: More
 description: Some information about me.
 nav: true
