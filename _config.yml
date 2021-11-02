@@ -66,6 +66,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 bilibili_id: 442318796 #your bilibili id
+cv_pdf: CV_PengZhenghao_20211102.pdf
 
 rss_icon: false
 
