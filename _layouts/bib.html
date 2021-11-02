@@ -96,17 +96,17 @@
         <div class="periodical">
 
             {% if entry.type == "article" %}
-            <em>{{entry.journal}}</em>
+            {{entry.journal}}
             {% elsif entry.type == "inproceedings" %}
-            <em>{{entry.booktitle}}</em>
+            {{entry.booktitle}}
             {% endif %}
 
             {% if entry.abbr %}
-            <em>(<b>{{entry.abbr}}</b>)</em>
+            (<b>{{entry.abbr}}</b>)
 <!--            {{entry.abbr}}-->
             {% endif %}
             {% if entry.year %}
-            <em>, {{entry.year}}</em>
+            , {{entry.year}}
             {% endif %}
         </div>
         {% endif %}
