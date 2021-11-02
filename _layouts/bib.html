@@ -1,7 +1,7 @@
 ---
 ---
 
-<div class="row">
+<div class="row" style="min-height: 100px">
     <div class="col-sm-4 abbr">
         {% if entry.teaser %}
         <img src="../assets/teaser/{{entry.teaser}}" class="teaser img-fluid z-depth-1">
@@ -94,16 +94,19 @@
         </div>
 
         <div class="periodical">
+
             {% if entry.type == "article" %}
             <em>{{entry.journal}}</em>
             {% elsif entry.type == "inproceedings" %}
-            <em>In {{entry.booktitle}}</em>
+            <em>{{entry.booktitle}}</em>
             {% endif %}
+
             {% if entry.abbr %}
-            (<b>{{entry.abbr}}</b>)
+            <em>(<b>{{entry.abbr}}</b>)</em>
+<!--            {{entry.abbr}}-->
             {% endif %}
             {% if entry.year %}
-            , {{entry.year}}
+            <em>, {{entry.year}}</em>
             {% endif %}
         </div>
         {% endif %}
