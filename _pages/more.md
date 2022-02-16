@@ -51,6 +51,10 @@ nav: true
 <br>
 ## Papers
 
+* Quanyi Li\*, <b>Zhenghao Peng\*</b>, and Bolei Zhou.
+Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization.
+(**ICLR 2022**) [[Webpage](https://decisionforce.github.io/HACO/)] [[PDF](https://openreview.net/pdf?id=0cgU-BZp2ky)]
+
 * <b>Zhenghao Peng\*</b>, Quanyi Li\*, Chunxiao Liu, and Bolei Zhou.
 Safe driving via expert guided policy optimization.
 (**CoRL 2021**) [[Webpage](https://decisionforce.github.io/EGPO/)] [[PDF](https://arxiv.org/pdf/2110.06831.pdf)]
