@@ -47,6 +47,23 @@ nav: true
 * Intro to Reinforcement Learning (introRL) at bilibili: Open-source online lectures
 * IERG6130 Seminar on Reinforcement Learning at CUHK, Term 2, 2019-20
 
+
+<br>
+<br>
+## Press Coverage
+
+
+* A group of journalist visited our Embodied AI lab at CPII On December 6, 2021. The following press make their reports:
+[BastillePost 巴士的報](https://www.bastillepost.com/hongkong/article/9756888),
+[HK01 香港01](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/708959/%E4%B8%AD%E5%A4%A7innohk%E8%AE%93ai%E8%B7%9F%E4%BA%BA%E9%A1%9E%E5%AD%B8%E9%A7%95%E9%A7%9B%E6%B1%BA%E7%AD%96-%E9%AB%98%E6%95%88%E5%AD%B8%E7%BF%92%E8%AE%93%E7%84%A1%E4%BA%BA%E8%BB%8A100-%E5%AE%89%E5%85%A8%E9%A7%95%E9%A7%9B%0A),
+[HK Commercial Daily 香港商報](http://www.hkcd.com/hkcdweb/content/2021/12/07/content_1310287.html),
+[South China Morning Post](https://www.scmp.com/news/hong-kong/society/article/3158663/hong-kongs-chinese-university-sets-6-labs-under-umbrella),
+[Sing Tao Daily 星島日報](../assets/pdf/press_coverage_2021.pdf),
+[HK Economic Journal 信報](../assets/pdf/press_coverage_2021.pdf),
+[Ta Kung Pao 大公报](../assets/pdf/press_coverage_2021.pdf).
+<img src="../assets/img/press_coverage_2021.jpeg" width="400">
+
+
 <br>
 <br>
 ## Papers
