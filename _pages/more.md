@@ -68,6 +68,10 @@ nav: true
 <br>
 ## Papers
 
+* Mingxin Huang, Yuliang Liu, <b>Zhenghao Peng</b>, Chongyu Liu, Dahua Lin, Shenggao Zhu, Nicholas Yuan, Kai Ding, and Lianwen Jin. 
+Swintextspotter: Scene text spotting via better synergy between text detection and text recognition.
+(**CVPR 2022**)
+
 * Quanyi Li\*, <b>Zhenghao Peng\*</b>, and Bolei Zhou.
 Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization.
 (**ICLR 2022**) [[Webpage](https://decisionforce.github.io/HACO/)] [[PDF](https://openreview.net/pdf?id=0cgU-BZp2ky)]
