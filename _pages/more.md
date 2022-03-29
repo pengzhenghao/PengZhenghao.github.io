@@ -20,8 +20,7 @@ nav: true
 
 * September 2015 - July 2019
 * Supervised by <a href="http://www.cs.sjtu.edu.cn/~jiangli/">Professor Li Jiang</a> at Advanced Computer Architecture Laboratory.
-* Major in Naval Architecture and Ocean Engineering.
-* Member of Zhiyuan Honors Program.
+* Bachelor of Engineering and member of Zhiyuan Honors Program.
 
 ##### The Affiliated High School of South China Normal University
 
