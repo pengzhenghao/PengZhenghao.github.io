@@ -19,7 +19,6 @@ nav: true
 ##### Shanghai Jiao Tong University
 
 * September 2015 - July 2019
-* Supervised by <a href="http://www.cs.sjtu.edu.cn/~jiangli/">Professor Li Jiang</a> at Advanced Computer Architecture Laboratory.
 * Bachelor of Engineering and member of Zhiyuan Honors Program.
 
 ##### The Affiliated High School of South China Normal University
@@ -102,11 +101,3 @@ with constrained optimization. (arXiv preprint)
 
 * Hao Sun, Jiankai Sun, <b>Zhenghao Peng</b>, Dahua Lin, and Bolei Zhou. Learning with identity and
 uniqueness through social constraint. (NeurIPS 2019 Deep RL Workshop)
-
-* Zhuoran Song, Dongyu Ru, Ru Wang, Hongru Huang, <b>Zhenghao Peng</b>, Jing Ke, Xiaoyao Liang, and Li
-Jiang. Approximate random dropout. (**DATE 2020**)
-[<a href="https://arxiv.org/pdf/1805.08939.pdf">PDF</a>]
-
-* <b>Zhenghao Peng</b>, Xuyang Chen, Chengwen Xu, Naifeng Jing, Xiaoyao Liang, Cewu Lu, and Li Jiang.
-Axnet: Approximate computing using an end-to-end trainable neural network. (**ICCAD 2018**)
-[<a href="https://arxiv.org/pdf/1807.10458.pdf">PDF</a>]
