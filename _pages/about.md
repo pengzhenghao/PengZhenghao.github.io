@@ -6,7 +6,7 @@ description:
 
 profile:
   align: left
-  image: pengzhenghao_cropped.jpg
+  image: pengzhenghao.jpg
   address: >
     <p></p>
 
