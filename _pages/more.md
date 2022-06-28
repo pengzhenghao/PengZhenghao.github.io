@@ -9,10 +9,16 @@ nav: true
 <br>
 ## Education
 
+##### University of California, Los Angeles
+
+* September 2022 - Present
+* PhD student at Department of Computer Science.
+* Supervised by <a href="http://boleizhou.github.io">Professor Bolei Zhou</a>. 
+
 ##### The Chinese University of Hong Kong
 
 * August 2019 - Present
-* Graduate student at Information Engineering Department.
+* MPhil student at Department of Information Engineering.
 * Supervised by <a href="http://boleizhou.github.io">Professor Bolei Zhou</a>.
 
 
@@ -21,10 +27,6 @@ nav: true
 * September 2015 - July 2019
 * Bachelor of Engineering and member of Zhiyuan Honors Program.
 
-##### The Affiliated High School of South China Normal University
-
-* September 2012 - July 2015
-* I love my high school!
 
 <br>
 <br>
@@ -66,6 +68,20 @@ nav: true
 <br>
 ## Papers
 
+* Qihang Zhang, Zhenghao Peng, Bolei Zhou.
+Action-Conditioned Contrastive Policy Pretraining.
+(arXiv preprint)
+[<a href="https://arxiv.org/pdf/2204.02393">PDF</a>]
+
+* Quanyi Li, Zhenghao Peng, Haibin Wu, Lan Feng, Bolei Zhou.
+Human-AI Shared Control via Frequency-based Policy Dissection.
+(arXiv preprint)
+[<a href="https://arxiv.org/pdf/2206.00152">PDF</a>]
+
+* Quanyi Li\*, <b>Zhenghao Peng\*</b>, Lan Feng, Qihang Zhang, Zhenghai Xue, Bolei Zhou. 
+MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning.
+(**TPAMI**)
+
 * Mingxin Huang, Yuliang Liu, <b>Zhenghao Peng</b>, Chongyu Liu, Dahua Lin, Shenggao Zhu, Nicholas Yuan, Kai Ding, and Lianwen Jin. 
 Swintextspotter: Scene text spotting via better synergy between text detection and text recognition.
 (**CVPR 2022**)
@@ -75,29 +91,29 @@ Efficient Learning of Safe Driving Policy via Human-AI Copilot Optimization.
 (**ICLR 2022**) [[Webpage](https://decisionforce.github.io/HACO/)] [[PDF](https://openreview.net/pdf?id=0cgU-BZp2ky)]
 
 * <b>Zhenghao Peng\*</b>, Quanyi Li\*, Chunxiao Liu, and Bolei Zhou.
-Safe driving via expert guided policy optimization.
+Safe Driving via Expert Guided Policy Optimization.
 (**CoRL 2021**) [[Webpage](https://decisionforce.github.io/EGPO/)] [[PDF](https://arxiv.org/pdf/2110.06831.pdf)]
  
 * <b>Zhenghao Peng</b>, Quanyi Li, Chunxiao Liu, and Bolei Zhou.
-Learning to simulate self-driven particles system with coordinated policy optimization.
+Learning to Simulate Self-driven Particles System with Coordinated Policy Optimization.
 (**NeurIPS 2021**) [[Webpage](https://decisionforce.github.io/CoPO/)] [[PDF](https://arxiv.org/pdf/2110.13827.pdf)]
 
 * Hao Sun, Ziping Xu, Meng Fang, <b>Zhenghao Peng</b>, Jiadong Guo, Bo Dai, and Bolei Zhou.
-Safe exploration by solving early terminated mdp.
+Safe Exploration by Solving Early Terminated MDP.
 (arXiv preprint)
 [<a href="https://arxiv.org/pdf/2107.04200.pdf">PDF</a>]
 
 * Quanyi Li\*, <b>Zhenghao Peng\*</b>, Qihang Zhang, Chunxiao Liu, and Bolei Zhou.
-Improving the generalization of end-to-end driving through procedural generation. (arXiv preprint)
+Improving the Generalization of End-to-end Driving through Procedural Generation. (arXiv preprint)
 [<a href="https://arxiv.org/pdf/2012.13681">PDF</a>]
 
-* <b>Zhenghao Peng</b>, Hao Sun, and Bolei Zhou. Non-local policy optimization via
-diversity-regularized collaborative exploration. (arXiv preprint)
+* <b>Zhenghao Peng</b>, Hao Sun, and Bolei Zhou. Non-local Policy Optimization via
+Diversity-regularized Collaborative Exploration. (arXiv preprint)
 [<a href="https://arxiv.org/pdf/2006.07781.pdf">PDF</a>]
  
-* Hao Sun, <b>Zhenghao Peng</b>, Bo Dai, Jian Guo, Dahua Lin, and Bolei Zhou. Novel policy seeking
-with constrained optimization. (arXiv preprint)
+* Hao Sun, <b>Zhenghao Peng</b>, Bo Dai, Jian Guo, Dahua Lin, and Bolei Zhou. Novel Policy Seeking
+with Constrained Optimization. (arXiv preprint)
 [<a href="https://arxiv.org/pdf/2005.10696.pdf">PDF</a>]
 
-* Hao Sun, Jiankai Sun, <b>Zhenghao Peng</b>, Dahua Lin, and Bolei Zhou. Learning with identity and
-uniqueness through social constraint. (NeurIPS 2019 Deep RL Workshop)
+* Hao Sun, Jiankai Sun, <b>Zhenghao Peng</b>, Dahua Lin, and Bolei Zhou. Learning with Identity and
+Uniqueness through Social Constraint. (NeurIPS 2019 Deep RL Workshop)
