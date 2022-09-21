@@ -17,7 +17,7 @@ nav: true
 
 ##### The Chinese University of Hong Kong
 
-* August 2019 - Present
+* August 2019 - July 2022
 * MPhil student at Department of Information Engineering.
 * Supervised by <a href="http://boleizhou.github.io">Professor Bolei Zhou</a>.
 
