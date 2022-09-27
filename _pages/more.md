@@ -35,7 +35,7 @@ nav: true
 
 ##### Awards
 
-* Outstanding Tutors Award 2021 of the Faculty (Faculty of Engineering, CUHK)
+* Outstanding Tutors Award 2021 of the Faculty of Engineering, CUHK
 * Teaching Assistant Awards, Term 2, 2020-21
 * Teaching Assistant Awards, Term 1, 2020-21
 
