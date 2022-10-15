@@ -21,3 +21,5 @@ Before moving to UCLA, I already worked with Prof. Zhou and conducted researches
 
 My research interests cover multi-agent RL (for potential usage in open-world games) and human-AI interaction (like playing with AI). 
 Hope you enjoy my works!
+
+**I am looking for summer internship in 2023!**
