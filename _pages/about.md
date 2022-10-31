@@ -23,3 +23,5 @@ My research interests cover multi-agent RL (for potential usage in open-world ga
 Hope you enjoy my works!
 
 **I am looking for summer internship in 2023!**
+
+[Pronunciation of name](pronunciation)

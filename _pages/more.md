@@ -6,6 +6,8 @@ description: Some information about me.
 nav: true
 ---
 
+Pronouns: *he/him/his*
+
 <br>
 ## Education
 
