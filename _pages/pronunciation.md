@@ -15,14 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<!--
-<script src="{{ '/assets/js/sound.js' | relative_url }}"></script>
 
-<h1>
-<a id="soundPlay" href="#"><i class="fa fa-volume-up"></i></a>
-</h1>
-<br>
--->
 
 **TLDR: John-How Pong** (Zhenghao Peng)
 
