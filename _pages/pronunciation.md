@@ -1,9 +1,18 @@
 ---
-layout: page
-permalink: /pronunciation/
+layout: pronunciation
 title: Pronunciation of My Name
+permalink: /pronunciation
 description: 
 nav: false
+profile:
+  align: left
+  image: pengzhenghao.jpg
+  address: >
+    <p></p>
+
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 <!--
@@ -15,7 +24,7 @@ nav: false
 <br>
 -->
 
-**TLDR: John-How Pong**
+**TLDR: John-How Pong** (Zhenghao Peng)
 
 Peng (彭) is my family name. It is hard to pronounce in English. 
 Most people pronounce like *Pain* which is far from it should be like.
