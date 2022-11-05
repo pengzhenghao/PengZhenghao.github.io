@@ -2,7 +2,7 @@
 layout: page
 permalink: /more/
 title: More
-description: Some information about me.
+description: 
 nav: true
 ---
 
@@ -43,11 +43,10 @@ Pronouns: *he/him/his*
 
 ##### Teaching Assistance
 
-
+* CS269 Seminar on Reinforcement Learning at UCLA, Fall, 2022-23
 * IERG5350 Reinforcement Learning at CUHK, Term 1, 2021-22
 * CSCI2100E Data Structures at CUHK, Term 2, 2020-21
 * IERG5350 Reinforcement Learning at CUHK, Term 1, 2020-21
-* Intro to Reinforcement Learning (introRL) at bilibili: Open-source online lectures
 * IERG6130 Seminar on Reinforcement Learning at CUHK, Term 2, 2019-20
 
 
@@ -71,19 +70,41 @@ Pronouns: *he/him/his*
 <br>
 ## Papers
 
-* Qihang Zhang, Zhenghao Peng, Bolei Zhou.
-Action-Conditioned Contrastive Policy Pretraining.
-(arXiv preprint)
-[<a href="https://arxiv.org/pdf/2204.02393">PDF</a>]
+* Lan Feng*, Quanyi Li*, <b>Zhenghao Peng</b>*, Shuhan Tan, Bolei Zhou.
+TrafficGen: Learning to Generate Diverse and Realistic Traffic Scenarios
+(axXiv preprint)
+[[Webpage](https://metadriverse.github.io/trafficgen/)]
+[[PDF](https://arxiv.org/pdf/2206.00152.pdf)]
 
-* Quanyi Li, Zhenghao Peng, Haibin Wu, Lan Feng, Bolei Zhou.
+* Qihang Zhang, <b>Zhenghao Peng</b>, Bolei Zhou.
+Action-Conditioned Contrastive Policy Pretraining.
+(**ECCV 2022**)
+[[Webpage](https://metadriverse.github.io/ACO/)]
+[[PDF](https://arxiv.org/pdf/2204.02393)]
+
+* Quanyi Li, <b>Zhenghao Peng</b>, Haibin Wu, Lan Feng, Bolei Zhou.
 Human-AI Shared Control via Frequency-based Policy Dissection.
-(arXiv preprint)
+(**NeurIPS 2022**)
+[[Webpage](https://metadriverse.github.io/policydissect/)]
 [<a href="https://arxiv.org/pdf/2206.00152">PDF</a>]
+
+
+* Hao Sun, <b>Zhenghao Peng</b>, Bo Dai, Jian Guo, Dahua Lin, and Bolei Zhou. Novel Policy Seeking
+with Constrained Optimization. (Deep RL Workshop NeurIPS 2022)
+[<a href="https://arxiv.org/pdf/2005.10696.pdf">PDF</a>]
+
+* Hao Sun, Ziping Xu, <b>Zhenghao Peng</b>, Meng Fang, Bo Dai, Bolei Zhou.
+MOPA: a Minimalist Off-Policy Approach to Safe-RL.
+(Deep RL Workshop NeurIPS 2022)
+
 
 * Quanyi Li\*, <b>Zhenghao Peng\*</b>, Lan Feng, Qihang Zhang, Zhenghai Xue, Bolei Zhou. 
 MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning.
 (**TPAMI**)
+[[Webpage](https://metadriverse.github.io/metadrive/)]
+[[PDF](https://arxiv.org/pdf/2109.12674.pdf)]
+
+* Boli Fang, <b>Zhenghao Peng</b>, Hao Sun, and Qin Zhang. Meta Proximal Policy Optimization for Cooperative Multi-gent Continuous Control. (IJCNN 2022)
 
 * Mingxin Huang, Yuliang Liu, <b>Zhenghao Peng</b>, Chongyu Liu, Dahua Lin, Shenggao Zhu, Nicholas Yuan, Kai Ding, and Lianwen Jin. 
 Swintextspotter: Scene text spotting via better synergy between text detection and text recognition.
@@ -101,11 +122,6 @@ Safe Driving via Expert Guided Policy Optimization.
 Learning to Simulate Self-driven Particles System with Coordinated Policy Optimization.
 (**NeurIPS 2021**) [[Webpage](https://decisionforce.github.io/CoPO/)] [[PDF](https://arxiv.org/pdf/2110.13827.pdf)]
 
-* Hao Sun, Ziping Xu, Meng Fang, <b>Zhenghao Peng</b>, Jiadong Guo, Bo Dai, and Bolei Zhou.
-Safe Exploration by Solving Early Terminated MDP.
-(arXiv preprint)
-[<a href="https://arxiv.org/pdf/2107.04200.pdf">PDF</a>]
-
 * Quanyi Li\*, <b>Zhenghao Peng\*</b>, Qihang Zhang, Chunxiao Liu, and Bolei Zhou.
 Improving the Generalization of End-to-end Driving through Procedural Generation. (arXiv preprint)
 [<a href="https://arxiv.org/pdf/2012.13681">PDF</a>]
@@ -113,10 +129,10 @@ Improving the Generalization of End-to-end Driving through Procedural Generation
 * <b>Zhenghao Peng</b>, Hao Sun, and Bolei Zhou. Non-local Policy Optimization via
 Diversity-regularized Collaborative Exploration. (arXiv preprint)
 [<a href="https://arxiv.org/pdf/2006.07781.pdf">PDF</a>]
- 
-* Hao Sun, <b>Zhenghao Peng</b>, Bo Dai, Jian Guo, Dahua Lin, and Bolei Zhou. Novel Policy Seeking
-with Constrained Optimization. (arXiv preprint)
-[<a href="https://arxiv.org/pdf/2005.10696.pdf">PDF</a>]
 
 * Hao Sun, Jiankai Sun, <b>Zhenghao Peng</b>, Dahua Lin, and Bolei Zhou. Learning with Identity and
 Uniqueness through Social Constraint. (NeurIPS 2019 Deep RL Workshop)
+
+* Zhuoran Song, Dongyu Ru, Ru Wang, Hongru Huang, <b>Zhenghao Peng</b>, Jing Ke, Xiaoyao Liang, and Li Jiang. Approximate Random Dropout. Design, Automation & Test in Europe Conference & Exhibition 2019
+
+* <b>Zhenghao Peng</b>, Xuyang Chen, Chengwen Xu, Naifeng Jing, Xiaoyao Liang, Cewu Lu, and Li Jiang. AXNet: Approximate Computing Using an End-to-end Trainable Neural Network. International Conference on Computer-Aided Design 2018
