@@ -130,9 +130,6 @@ Improving the Generalization of End-to-end Driving through Procedural Generation
 Diversity-regularized Collaborative Exploration. (arXiv preprint)
 [<a href="https://arxiv.org/pdf/2006.07781.pdf">PDF</a>]
 
-* Hao Sun, Jiankai Sun, <b>Zhenghao Peng</b>, Dahua Lin, and Bolei Zhou. Learning with Identity and
-Uniqueness through Social Constraint. (NeurIPS 2019 Deep RL Workshop)
-
 * Zhuoran Song, Dongyu Ru, Ru Wang, Hongru Huang, <b>Zhenghao Peng</b>, Jing Ke, Xiaoyao Liang, and Li Jiang. Approximate Random Dropout. Design, Automation & Test in Europe Conference & Exhibition 2019
 
 * <b>Zhenghao Peng</b>, Xuyang Chen, Chengwen Xu, Naifeng Jing, Xiaoyao Liang, Cewu Lu, and Li Jiang. AXNet: Approximate Computing Using an End-to-end Trainable Neural Network. International Conference on Computer-Aided Design 2018
