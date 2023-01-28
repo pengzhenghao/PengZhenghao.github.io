@@ -72,9 +72,13 @@ Pronouns: *he/him/his*
 
 * Lan Feng*, Quanyi Li*, <b>Zhenghao Peng</b>*, Shuhan Tan, Bolei Zhou.
 TrafficGen: Learning to Generate Diverse and Realistic Traffic Scenarios
-(axXiv preprint)
+(**ICRA 2023**)
 [[Webpage](https://metadriverse.github.io/trafficgen/)]
 [[PDF](https://arxiv.org/pdf/2206.00152.pdf)]
+
+* Zhenghai Xue, <b>Zhenghao Peng</b>, Quanyi Li, Zhihan Liu, Bolei Zhou. Guarded Policy Optimization with Imperfect Online Demonstrations.
+(**ICLR 2023**)
+[[OpenReview](https://openreview.net/forum?id=O5rKg7IRQIO)]
 
 * Qihang Zhang, <b>Zhenghao Peng</b>, Bolei Zhou.
 Action-Conditioned Contrastive Policy Pretraining.
