@@ -4,11 +4,6 @@ title: Pronunciation of My Name
 permalink: /pronunciation
 description: 
 nav: false
-profile:
-  align: left
-  image: pengzhenghao.jpg
-  address: >
-    <p></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
