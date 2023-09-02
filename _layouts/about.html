@@ -9,10 +9,9 @@ layout: default
             {% if page.profile %}
             <div class="profile float-center col-5">
                 {% if page.profile.image %}
-                {% responsive_image_block %}
-                path: {{ page.profile.image | prepend: 'assets/img/' }}
-                class: "img-fluid z-depth-1 rounded"
-                {% endresponsive_image_block %}
+                {%- include figure.html
+                path=page.profile.image
+                alt="Zhenghao's Avatar" -%}
                 {% endif %}
                 {% if page.profile.address %}
                 <div class="address">
@@ -23,7 +22,8 @@ layout: default
             {% endif %}
             <div class="profile float-center col-6">
                 <h1 class="post-title" style="padding-top: 10px; text-align: center;">
-                    <img id="MySignImg" class="sign" src="../assets/img/sign.png" alt="" itemprop="image" style="text-align: center; width: 67%"/>
+                    <img id="MySignImg" class="sign" src="../assets/img/sign.png" alt="" itemprop="image"
+                         style="text-align: center; width: 67%"/>
                     <br>
                     Peng Zhenghao
 

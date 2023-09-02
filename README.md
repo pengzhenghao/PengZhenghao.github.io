@@ -1,3 +1,33 @@
+# A new installation workflow on MacOS 2023-09-02
+
+```
+# https://stackoverflow.com/questions/61196279/how-to-remove-all-old-ruby-versions-and-version-managers-and-reinstall-a-singl
+brew install rbenv
+
+
+# Add the command eval "$(rbenv init -)" to ~/.bash_profile to make rbenv load automatically
+rbenv init
+
+source ~/.bash_profile
+
+rbenv install -l
+
+# list latest stable versions:
+rbenv install -l
+
+# list all local versions:
+rbenv install -L
+
+# install a Ruby version:
+rbenv install 3.2.2
+
+rbenv global 3.2.2   # set the default Ruby version for this machine
+
+gem install bundler
+
+```
+
+
 # al-folio
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
