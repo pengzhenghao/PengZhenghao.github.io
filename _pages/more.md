@@ -70,6 +70,13 @@ Pronouns: *he/him/his*
 <br>
 ## Papers
 
+* <b>Zhenghao Peng</b>, Wenjie Mo, Chenda Duan, Quanyi Li, and Bolei Zhou. Learning from active human involvement through proxy value propagation. Advances in Neural Information Processing Systems, 2023 (**NeurIPS 2023 Spotlight**) [ [PDF](https://openreview.net/pdf?id=q8SukwaEBy), [Website](https://metadriverse.github.io/pvp/) ]
+
+* Quanyi Li*, <b>Zhenghao Peng*</b>, Lan Feng, Zhizheng Liu, Chenda Duan, Wenjie Mo, and Bolei Zhou. Scenarionet: Open-source platform for large-scale traffic scenario simulation and modeling. Advances in Neural Information Processing Systems, 2023 (**NeurIPS 2023**) [ [PDF](https://arxiv.org/pdf/2306.12241.pdf) , [Code](https://github.com/metadriverse/scenarionet) , [Website](https://metadriverse.github.io/scenarionet/) ]
+
+* Linrui Zhang, <b>Zhenghao Peng</b>, Quanyi Li, and Bolei Zhou. Cat: Closed-loop adversarial training for safe end-to- end driving. In 7th Annual Conference on Robot Learning, 2023 (**CoRL 2023**) [ [PDF](https://arxiv.org/pdf/2310.12432.pdf), [Code](https://github.com/metadriverse/cat), [Website](https://metadriverse.github.io/cat/) ]
+
+
 * Lan Feng*, Quanyi Li*, <b>Zhenghao Peng</b>*, Shuhan Tan, Bolei Zhou.
 TrafficGen: Learning to Generate Diverse and Realistic Traffic Scenarios
 (**ICRA 2023**)
