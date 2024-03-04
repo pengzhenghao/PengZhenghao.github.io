@@ -12,16 +12,16 @@ social: false  # includes social icons at the bottom of the page
 
 
 
-**TLDR: John-How Pong** (Zhenghao Peng)
+**TLDR: "john-how pong" or simply "zen-how pain".**
 
-Peng (彭) is my family name. It is hard to pronounce in English. 
-Most people pronounce like *Pain* which is far from it should be like.
+Peng (彭) is my family name. It is hard to pronounce in English.
 The most similar analogies are *Pong* or *Pung*. 
+English speaker might pronounce like *Pain*.
 
 Zhenghao (正皓) is my given name with two Chinese characters.
-It sounds very similar to *John-How*. 
-Please don't omit any English character in the pinyin and make it become *Zhengao* or *Zhenhao*.
+It sounds very similar to *john-how*. The instinct of an English speaker might 
+pronounce *zen-how*.
 
-I prefer to put family name in the first place following Chinese convention.
-But it's OK to follow some rules in paper writing, email and networking to avoid confusion.
+I also have a Starbucks name "Mark Peng".
 
+I actually prefer you to call my Family name "Peng" as its posterior probability for referring me is higher than the names starting with *Zhen(g)* :)
