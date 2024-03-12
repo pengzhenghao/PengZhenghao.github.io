@@ -19,6 +19,6 @@ Hi there! I am a PhD student in Computer Science at University of California, Lo
 Before moving to UCLA, I already worked with Prof. Zhou and conducted researches for years and earned my MPhil degree in the Multimedia Lab at the Chinese University of Hong Kong. I got my Bachelor degree at Shanghai Jiao Tong University. ([Pronunciation of my name](pronunciation))
 
 
-My research interests cover multi-agent RL (for potential usage in open-world games) and human-AI interaction (like playing with AI). 
+My research interests cover multi-agent behavior modeling and human-in-the-loop agent learning. 
 Hope you enjoy my works!
 
