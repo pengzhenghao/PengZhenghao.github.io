@@ -25,6 +25,9 @@ rbenv global 3.2.2   # set the default Ruby version for this machine
 
 gem install bundler
 
+
+bundle install
+bundle exec jekyll serve
 ```
 
 
