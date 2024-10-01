@@ -6,7 +6,7 @@ description:
 
 profile:
   align: left
-  image: assets/img/ZhenghaoPeng.jpg
+  image: assets/img/ZhenghaoPeng-2024.jpg
   address: >
     <p></p>
 
