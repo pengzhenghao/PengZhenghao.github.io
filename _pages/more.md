@@ -37,13 +37,16 @@ Pronouns: *he/him/his*
 
 ##### Awards
 
+* Amazon Fellowship, 2024-25
+* University Fellowship, 2023-24
 * Outstanding Tutors Award 2021 of the Faculty of Engineering, CUHK
 * Teaching Assistant Awards, Term 2, 2020-21
 * Teaching Assistant Awards, Term 1, 2020-21
 
 ##### Teaching Assistance
 
-* CS269 Seminar on Reinforcement Learning at UCLA, Fall, 2022-23
+* CS260R Reinforcement Learning at UCLA, Fall 23
+* CS269 Seminar on Reinforcement Learning at UCLA, Fall 22
 * IERG5350 Reinforcement Learning at CUHK, Term 1, 2021-22
 * CSCI2100E Data Structures at CUHK, Term 2, 2020-21
 * IERG5350 Reinforcement Learning at CUHK, Term 1, 2020-21
@@ -70,6 +73,10 @@ Pronouns: *he/him/his*
 <br>
 ## Papers
 
+
+* <b>Zhenghao Peng</b>, Wenjie Luo, Yiren Lu, Tianyi Shen, Cole Gulino, Ari Seff, and Justin Fu. Improving agent behaviors with rl fine-tuning for autonomous driving. European Conference on Computer Vision, 2024 (**ECCV 2024**)[[PDF](https://arxiv.org/pdf/2409.18343)]
+* Yunsong Zhou, Michael Simon, <b>Zhenghao Peng</b>, Sicheng Mo, Hongzi Zhu, Minyi Guo, and Bolei Zhou. SimGen: Simulator-conditioned driving scene generation. Advances in Neural Information Processing Systems, 2024 (**NeurIPS 2024**)[[PDF](https://arxiv.org/pdf/2406.09386), [Website](https://metadriverse.github.io/simgen/)]
+* Brandon J. McMahan, <b>Zhenghao Peng</b>, Bolei Zhou, and Jonathan C. Kao. Shared autonomy with: Interventional diffusion assistance. Advances in Neural Information Processing Systems, 2024 (**NeurIPS 2024**) [ [PDF](https://arxiv.org/pdf/2409.15317) ]
 * <b>Zhenghao Peng</b>, Wenjie Mo, Chenda Duan, Quanyi Li, and Bolei Zhou. Learning from active human involvement through proxy value propagation. Advances in Neural Information Processing Systems, 2023 (**NeurIPS 2023 Spotlight**) [ [PDF](https://openreview.net/pdf?id=q8SukwaEBy), [Website](https://metadriverse.github.io/pvp/) ]
 
 * Quanyi Li*, <b>Zhenghao Peng*</b>, Lan Feng, Zhizheng Liu, Chenda Duan, Wenjie Mo, and Bolei Zhou. Scenarionet: Open-source platform for large-scale traffic scenario simulation and modeling. Advances in Neural Information Processing Systems, 2023 (**NeurIPS 2023**) [ [PDF](https://arxiv.org/pdf/2306.12241.pdf) , [Code](https://github.com/metadriverse/scenarionet) , [Website](https://metadriverse.github.io/scenarionet/) ]
