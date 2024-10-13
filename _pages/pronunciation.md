@@ -22,6 +22,5 @@ Zhenghao (正皓) is my given name with two Chinese characters.
 It sounds very similar to *john-how*. The instinct of an English speaker might 
 pronounce *zen-how*.
 
-I also have a Starbucks name "Mark Peng".
+I also have a Starbucks name *Mark Peng*.
 
-I actually prefer you to call my Family name "Peng" as its posterior probability for referring me is higher than the names starting with *Zhen(g)* :)
